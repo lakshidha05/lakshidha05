@@ -46,10 +46,6 @@
 
 Machine Learning application for mental health prediction and monitoring.
 
-### 🚨 Accident Hotspot Prediction & Prevention System
-
-A data-driven system to identify accident-prone areas and improve road safety.
-
 ### 🌍 Disaster Preparedness & Response Education System
 
 An educational platform designed to improve disaster awareness and preparedness.
